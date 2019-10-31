@@ -1,0 +1,21 @@
+//META{"name":"Kize's","description":"Mein süßer Kizey uwu","author":"Akira","version":"1"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/dcsl.css);
+/* import url is a sample bcuz i am way too lazy to make my own lol (credits to the people who made "NotAnotherAnimeTheme") */
+:root {
+    --background-image: url(https://images5.alphacoders.com/100/1002112.png); 
+    --friends-icon: url(http://lyreax.ch/img/giphy.gif);
+    --friends-icon-position: center center; 
+    --friends-icon-zoom: 100%; 
+    --main-color: rgb(255, 192, 203);
+    --main-transparency: rgba(0, 0, 0, 0.6);
+    --unread-server-animation: rainbow;
+    --border-lines-color: hsla(5,20%,90%,.2);
+    --scroll-bar-color: rgba(255,255,255, .15);
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7;
+    --text-hover-color: #b9bbbe;
+    --voice-hover-color: #f6f6f7; 
+    --unread-text-color: #dcddde;
+    --user-popup-background: rgba(0, 0, 0, 0.8);
+    --options-transparency: transparent;
+}
